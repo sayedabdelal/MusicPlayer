@@ -7,7 +7,7 @@ This is a basic example of a simple music player created using HTML, CSS, and Ja
 This project demonstrates how to create a basic music player interface with controls to play, pause, and stop the audio playback. The player interface is designed to be minimalistic and easy to use.
 ## Demo
 
-You can try out a live demo of this project [here]().
+You can try out a live demo of this project [here](https://sayedabdelal.github.io/MusicPlayer/).
 
 ## Features
 
